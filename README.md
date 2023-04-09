@@ -1,16 +1,25 @@
-### Hi there 👋
+<h2> Hi, I'm Luis Caceres!</h2>
+<img align='right' src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="230">
+ 
+</em></p>
 
-<!--
-**Luidev02/Luidev02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter: Luidev02](https://img.shields.io/twitter/follow/Luidev02?style=social)](https://twitter.com/Luidev02)
+[![GitHub Luidev02](https://img.shields.io/github/followers/Luidev02?label=follow&style=social)](https://github.com/Luidev02)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```js
+import SoftwareDeveloper from 'Luisdev02';
+
+class Bio extends SoftwareDeveloper {
+  name     = 'Luis Caceres';
+  title    = 'Software Engineer';
+  company  = 'N&E Studios | Remote';
+  location = 'Bogotá, Co';
+}
+
+class Skills extends SoftwareDeveloper {
+  languages  = ['JavaScript', 'PHP', 'Java'];
+  databases  = ['MySQL', 'MongoDB'];
+  frameworks = ['React', 'React Native'];
+}
+```
