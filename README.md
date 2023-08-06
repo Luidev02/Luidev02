@@ -13,8 +13,8 @@ import SoftwareDeveloper from 'Luisdev02';
 class Bio extends SoftwareDeveloper {
   name     = 'Luis Caceres';
   title    = 'Software Engineer';
-  company  = 'N&E Studios | Remote';
-  location = 'Bogotá, Co';
+  company  = 'ClicfStudios | Remote';
+  location = 'Cúcuta, Co';
 }
 
 class Skills extends SoftwareDeveloper {
