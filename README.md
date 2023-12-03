@@ -3,7 +3,6 @@
  
 </em></p>
 
-[![Twitter: Luidev02](https://img.shields.io/twitter/follow/Luidev02?style=social)](https://twitter.com/Luidev02)
 [![GitHub Luidev02](https://img.shields.io/github/followers/Luidev02?label=follow&style=social)](https://github.com/Luidev02)
 
 
@@ -12,14 +11,13 @@ import SoftwareDeveloper from 'Luisdev02';
 
 class Bio extends SoftwareDeveloper {
   name     = 'Luis Caceres';
-  title    = 'Software Engineer';
-  company  = 'ClicfStudios | Remote';
+  title    = 'Full Stack Developer';
   location = 'Cúcuta, Co';
 }
 
 class Skills extends SoftwareDeveloper {
-  languages  = ['JavaScript', 'PHP', 'Java'];
+  languages  = ['Java', 'PHP', 'Java'];
   databases  = ['MySQL', 'MongoDB'];
-  frameworks = ['React', 'React Native'];
+  frameworks = ['React', 'React Native','Node.js','Next.js'];
 }
 ```
